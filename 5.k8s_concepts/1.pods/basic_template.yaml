@@ -1,0 +1,5 @@
+apiVersion:         # Version of K8s API
+kind:               # Type of the object wanted
+metadata:           # Data about the object
+
+spec:               # Specification about the object
